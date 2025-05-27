@@ -1,10 +1,23 @@
-XALT ANALYTICS CHATBOT 
+🚀 XALT Analytics Chatbot
+Welcome to the official XALT Analytics Chatbot — an intelligent web-based assistant tailored exclusively for XALT Analytics. This website serves as a smart Q&A platform, capable of answering questions strictly related to the company using a custom-trained RAG pipeline.
 
-THIS WEBSITE IS NORMAL WEBSITE FOR XALT ANALYTICS.
+🔧 Tech Stack Overview
+Text-to-Vector Conversion
+→ Company documents are converted into embeddings and stored in a vector database.
 
-1. USES TEXT DATA AND CONVERT INTO VECTOR DATABASE
-2. RAG PIPELINE HELPS TO MAKE IT ONLY COMPANY RELATED CHAT CONVERSATION
-3. FLASK IS USED AS BACKEND
-4. RAILWAY PLATFORM IS USED FOR DEPLOYMENT.
+RAG (Retrieval-Augmented Generation) Pipeline
+→ Enables chatbot responses to be grounded in company-specific data for context-aware and relevant answers only.
 
+Flask Backend
+→ Lightweight and efficient backend framework used to serve the chatbot.
+
+Deployment on Railway
+→ The app is seamlessly deployed using the Railway platform for fast and scalable hosting.
+
+📚 References
+🔍 Learn about RAG
+What is RAG and how it works – YouTube
+
+🚀 Deploying to Railway
+Railway Deployment Guide – Medium Article
 
